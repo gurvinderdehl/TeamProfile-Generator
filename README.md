@@ -20,6 +20,7 @@ After the application has been run and the output html file has been created, th
 ## Instructions
 * Instructions will be shown below in a video :
 <img src="assets/zoom.gif" alt="Team Profile Generator"/>
+<img src="assets/Screenshot.png" alt="Team Profile Generator2"/>
 
 ## License
 * licensed under the [MIT License](LICENSE)
